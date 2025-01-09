@@ -1,0 +1,115 @@
+--------------------
+[0][0]
+[0][0]
+--------------------
+Usando el algoritmo de borrado contraccion:
+P(G, 2) = 4
+Tiempo: 0
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [3.800000, 4.200000]
+Media: 4.000000
+Tiempo: 0.084
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+Usando el algoritmo de borrado contraccion:
+P(G, 7) = 49
+Tiempo: 0
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [46.550000, 51.450000]
+Media: 49.000000
+Tiempo: 0.088
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+Usando el algoritmo de borrado contraccion:
+P(G, 12) = 144
+Tiempo: 0
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [136.800000, 151.200000]
+Media: 144.000000
+Tiempo: 0.086
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+Usando el algoritmo de borrado contraccion:
+P(G, 17) = 289
+Tiempo: 0
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [274.550000, 303.450000]
+Media: 289.000000
+Tiempo: 0.088
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+Usando el algoritmo de borrado contraccion:
+P(G, 22) = 484
+Tiempo: 0
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [459.800000, 508.200000]
+Media: 484.000000
+Tiempo: 0.09
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1]
+[1][0]
+--------------------
+Usando el algoritmo de borrado contraccion:
+P(G, 2) = 2
+Tiempo: 0
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1.896905, 2.096579]
+Media: 1.996742
+Tiempo: 0.087
+Error relativo: 0.001629
+El resultado SI esta dentro del intervalo :)
+--------------------
+Usando el algoritmo de borrado contraccion:
+P(G, 7) = 42
+Tiempo: 0
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [39.742736, 43.926182]
+Media: 41.834459
+Tiempo: 0.089
+Error relativo: 0.003941
+El resultado SI esta dentro del intervalo :)
+--------------------
+Usando el algoritmo de borrado contraccion:
+P(G, 12) = 132
+Tiempo: 0
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [125.307843, 138.498142]
+Media: 131.902992
+Tiempo: 0.091
+Error relativo: 0.000735
+El resultado SI esta dentro del intervalo :)
+--------------------
+Usando el algoritmo de borrado contraccion:
+P(G, 17) = 272
+Tiempo: 0
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [257.887518, 285.033573]
+Media: 271.460545
+Tiempo: 0.085
+Error relativo: 0.001983
+El resultado SI esta dentro del intervalo :)
+--------------------
+Usando el algoritmo de borrado contraccion:
+P(G, 22) = 462
+Tiempo: 0
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [438.898739, 485.098606]
+Media: 461.998673
+Tiempo: 0.091
+Error relativo: 0.000003
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+Numero de vertices: 2
+Total de graficas: 2
+Total de evaluaciones calculadas: 10
+Intervalos de evaluaciones correctamente resueltos: 10
+Tiempo medio Montecarlo: 0.0879
+Tiempo medio Borrado-Contraccion: 0
