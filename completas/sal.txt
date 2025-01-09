@@ -1,0 +1,1052 @@
+--------------------
+[0]
+--------------------
+P(G, 7) = 7
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [6.650000, 7.350000]
+Media: 7.000000
+Tiempo: 0.0291209
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 12) = 12
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [11.400000, 12.600000]
+Media: 12.000000
+Tiempo: 0.0306407
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 17) = 17
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [16.150000, 17.850000]
+Media: 17.000000
+Tiempo: 0.0302811
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 22) = 22
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [20.900000, 23.100000]
+Media: 22.000000
+Tiempo: 0.0286021
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 27) = 27
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [25.650000, 28.350000]
+Media: 27.000000
+Tiempo: 0.0276725
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1]
+[1][0]
+--------------------
+P(G, 9) = 72
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [68.389684, 75.588598]
+Media: 71.989141
+Tiempo: 0.0560864
+Error relativo: 0.000151
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 14) = 182
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [172.978632, 191.186909]
+Media: 182.082770
+Tiempo: 0.0568872
+Error relativo: 0.000455
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 19) = 342
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [324.805264, 358.995291]
+Media: 341.900278
+Tiempo: 0.0563864
+Error relativo: 0.000292
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 24) = 552
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [523.959846, 579.113514]
+Media: 551.536680
+Tiempo: 0.0553182
+Error relativo: 0.000839
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 29) = 812
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [770.584769, 851.698955]
+Media: 811.141862
+Tiempo: 0.0552657
+Error relativo: 0.001057
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1]
+[1][0][1]
+[1][1][0]
+--------------------
+P(G, 11) = 990
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [940.060906, 1039.014685]
+Media: 989.537796
+Tiempo: 0.0830651
+Error relativo: 0.000467
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 16) = 3360
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [3200.803089, 3537.729730]
+Media: 3369.266409
+Tiempo: 0.0837833
+Error relativo: 0.002758
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 21) = 7980
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [7588.868792, 8387.697086]
+Media: 7988.282939
+Tiempo: 0.0830238
+Error relativo: 0.001038
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 26) = 15600
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [14817.556226, 16377.298986]
+Media: 15597.427606
+Tiempo: 0.0830706
+Error relativo: 0.000165
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 31) = 26970
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [25645.628000, 28345.167789]
+Media: 26995.397895
+Tiempo: 0.082846
+Error relativo: 0.000942
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1]
+[1][0][1][1]
+[1][1][0][1]
+[1][1][1][0]
+--------------------
+P(G, 13) = 17160
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [16149.474222, 17849.418877]
+Media: 16999.446549
+Tiempo: 0.111194
+Error relativo: 0.009356
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 18) = 73440
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [70078.572973, 77455.264865]
+Media: 73766.918919
+Tiempo: 0.114117
+Error relativo: 0.004452
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 23) = 212520
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [200990.530972, 222147.428970]
+Media: 211568.979971
+Tiempo: 0.112005
+Error relativo: 0.004475
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 28) = 491400
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [467427.421622, 516630.308108]
+Media: 492028.864865
+Tiempo: 0.111302
+Error relativo: 0.001280
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 33) = 982080
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [935399.123695, 1033862.189348]
+Media: 984630.656521
+Tiempo: 0.111416
+Error relativo: 0.002597
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1]
+[1][0][1][1][1]
+[1][1][0][1][1]
+[1][1][1][0][1]
+[1][1][1][1][0]
+--------------------
+P(G, 15) = 360360
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [342184.884208, 378204.345703]
+Media: 360194.614955
+Tiempo: 0.139552
+Error relativo: 0.000459
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 20) = 1860480
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1765752.895753, 1951621.621622]
+Media: 1858687.258687
+Tiempo: 0.13933
+Error relativo: 0.000964
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 25) = 6375600
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [6127434.807855, 6772427.945524]
+Media: 6449931.376689
+Tiempo: 0.139337
+Error relativo: 0.011659
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 30) = 17100720
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [16228158.934604, 17936386.190878]
+Media: 17082272.562741
+Tiempo: 0.139676
+Error relativo: 0.001079
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 35) = 38955840
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [36991388.500317, 40885218.868771]
+Media: 38938303.684544
+Tiempo: 0.141488
+Error relativo: 0.000450
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1]
+[1][0][1][1][1][1]
+[1][1][0][1][1][1]
+[1][1][1][0][1][1]
+[1][1][1][1][0][1]
+[1][1][1][1][1][0]
+--------------------
+P(G, 17) = 8910720
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [8434388.289295, 9322218.635536]
+Media: 8878303.462416
+Tiempo: 0.169416
+Error relativo: 0.003638
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 22) = 53721360
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [50807890.679730, 56156089.698649]
+Media: 53481990.189189
+Tiempo: 0.167727
+Error relativo: 0.004456
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 27) = 213127200
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [202031978.640230, 223298502.707622]
+Media: 212665240.673926
+Tiempo: 0.16732
+Error relativo: 0.002168
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 32) = 652458240
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [615842045.034749, 680667523.459459]
+Media: 648254784.247104
+Tiempo: 0.168769
+Error relativo: 0.006442
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 37) = 1673844480
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1581630404.949554, 1748117815.996875]
+Media: 1664874110.473214
+Tiempo: 0.166699
+Error relativo: 0.005359
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1]
+[1][0][1][1][1][1][1]
+[1][1][0][1][1][1][1]
+[1][1][1][0][1][1][1]
+[1][1][1][1][0][1][1]
+[1][1][1][1][1][0][1]
+[1][1][1][1][1][1][0]
+--------------------
+P(G, 19) = 253955520
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [241444053.487672, 266859217.012690]
+Media: 254151635.250181
+Tiempo: 0.196639
+Error relativo: 0.000772
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 24) = 1744364160
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1647599103.604633, 1821030588.194595]
+Media: 1734314845.899614
+Tiempo: 0.193952
+Error relativo: 0.005761
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 29) = 7866331200
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [7502150823.618736, 8291850910.315446]
+Media: 7897000866.967091
+Tiempo: 0.196321
+Error relativo: 0.003899
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 34) = 27113264640
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [26006678896.635714, 28744224043.650000]
+Media: 27375451470.142857
+Tiempo: 0.194328
+Error relativo: 0.009670
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 39) = 77519922480
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [73435063579.496371, 81165070272.074937]
+Media: 77300066925.785654
+Tiempo: 0.194908
+Error relativo: 0.002836
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1]
+[1][1][1][0][1][1][1][1]
+[1][1][1][1][0][1][1][1]
+[1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][0]
+--------------------
+P(G, 21) = 8204716800
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [7783109779.734977, 8602384493.391290]
+Media: 8192747136.563133
+Tiempo: 0.223798
+Error relativo: 0.001459
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 26) = 62990928000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [58883789806.239382, 65082083470.054054]
+Media: 61982936638.146718
+Tiempo: 0.225054
+Error relativo: 0.016002
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 31) = 318073392000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [306017623244.715942, 338230004638.896570]
+Media: 322123813941.806256
+Tiempo: 0.22592
+Error relativo: 0.012734
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 36) = 1220096908800
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1166137333925.559842, 1288888632233.513517]
+Media: 1227512983079.536680
+Tiempo: 0.225803
+Error relativo: 0.006078
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 41) = 3852505238400
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [3666304720647.185494, 4052231533346.889253]
+Media: 3859268126997.037373
+Tiempo: 0.223548
+Error relativo: 0.001755
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 23) = 296541907200
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [289346004137.110855, 319803478256.806736]
+Media: 304574741196.958796
+Tiempo: 0.250381
+Error relativo: 0.027088
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 28) = 2506375872000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [2370516085843.027020, 2620044094879.135142]
+Media: 2495280090361.081081
+Tiempo: 0.381474
+Error relativo: 0.004427
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 33) = 13995229248000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [13503550556420.064723, 14924976930780.071619]
+Media: 14214263743600.068171
+Tiempo: 0.378517
+Error relativo: 0.015651
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 38) = 59153663923200
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [56912391880328.819139, 62903169972995.010977]
+Media: 59907780926661.915058
+Tiempo: 0.253523
+Error relativo: 0.012748
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 43) = 204636013545600
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [194358196584921.315514, 214816954120176.192027]
+Media: 204587575352548.753771
+Tiempo: 0.2516
+Error relativo: 0.000237
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1][1]
+[1][1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 25) = 11861676288000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [11253828707809.153638, 12438442255999.590932]
+Media: 11846135481904.372285
+Tiempo: 0.276686
+Error relativo: 0.001310
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 30) = 109027350432000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [103810429008807.914755, 114737842588682.432736]
+Media: 109274135798745.173745
+Tiempo: 0.278334
+Error relativo: 0.002264
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 35) = 666172912204800
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [624563178937035.636108, 690306671456723.601645]
+Media: 657434925196879.618877
+Tiempo: 0.281882
+Error relativo: 0.013117
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 40) = 3075990524006400
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [2926262527670527.661978, 3234290162162162.170712]
+Media: 3080276344916344.916345
+Tiempo: 0.417959
+Error relativo: 0.001393
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 45) = 11576551623436800
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [11046151929329919.966898, 12208904763996227.399777]
+Media: 11627528346663073.683337
+Tiempo: 0.426382
+Error relativo: 0.004403
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1][1][1]
+[1][1][1][1][1][0][1][1][1][1][1]
+[1][1][1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 27) = 520431047136000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [480448248530854.381427, 531021748376207.477164]
+Media: 505734998453530.929295
+Tiempo: 0.307052
+Error relativo: 0.028238
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 32) = 5150244363264000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [4820449161965058.753484, 5327864863224538.651921]
+Media: 5074157012594798.702703
+Tiempo: 0.305656
+Error relativo: 0.014774
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 37) = 34128550732953600
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [32828516780467191.003919, 36284150125779527.100991]
+Media: 34556333453123359.052455
+Tiempo: 0.304531
+Error relativo: 0.012534
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 42) = 170866312333516800
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [162810064190249933.362166, 179947965683960453.664862]
+Media: 171379014937105193.513514
+Tiempo: 0.306157
+Error relativo: 0.003001
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 47) = 695236239163065600
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [652170693996146426.616163, 720820240732582896.587143]
+Media: 686495467364364661.601653
+Tiempo: 0.308881
+Error relativo: 0.012572
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1][1][1][1]
+[1][1][1][1][1][0][1][1][1][1][1][1]
+[1][1][1][1][1][1][0][1][1][1][1][1]
+[1][1][1][1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 29) = 24858235898496000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [23684416230983858.997743, 26177512676350581.143184]
+Media: 24930964453667220.070463
+Tiempo: 0.331251
+Error relativo: 0.002926
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 34) = 262662462526464000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [248647874204051328.533772, 274821334646583048.856189]
+Media: 261734604425317188.694981
+Tiempo: 0.332689
+Error relativo: 0.003533
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 39) = 1873278229119897600
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1791053266562569502.195627, 1979585189358629460.811613]
+Media: 1885319227960599481.503620
+Tiempo: 0.501985
+Error relativo: 0.006428
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 44) = 10102470716719180800
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [9724536507707377548.607715, 10748171929571312087.222401]
+Media: 10236354218639344817.915058
+Tiempo: 0.338348
+Error relativo: 0.013253
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 49) = 44194476608419737600
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [41855228723551110707.334126, 46261042273398596302.392226]
+Media: 44058135498474853504.863176
+Tiempo: 0.333642
+Error relativo: 0.003085
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][0][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][0][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][0][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 31) = 1284342188088960000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1240579576076905084.700487, 1371166899874474048.615331]
+Media: 1305873237975689566.657909
+Tiempo: 0.359511
+Error relativo: 0.016764
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 36) = 14389334903623680000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [13936175243966535859.107458, 15403141059120908140.521886]
+Media: 14669658151543721999.814672
+Tiempo: 0.361755
+Error relativo: 0.019481
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 41) = 109720581991308288000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [103670408185949091800.497586, 114583082731838470522.418518]
+Media: 109126745458893781161.458052
+Tiempo: 0.540557
+Error relativo: 0.005412
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 46) = 633700435866930432000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [592911789758877194475.255974, 655323557101916902803.755609]
+Media: 624117673430397048639.505792
+Tiempo: 0.361648
+Error relativo: 0.015122
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 51) = 2965681982933429760000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [2830587719182236975485.747361, 3128544321201419832420.998657]
+Media: 2979566020191828403953.373009
+Tiempo: 0.547541
+Error relativo: 0.004682
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][0][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][0][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][0][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][0][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 33) = 71382386874839040000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [67725634806956663096.441101, 74854648997162628049.476780]
+Media: 71290141902059645572.958941
+Tiempo: 0.968786
+Error relativo: 0.001292
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 38) = 842975203103953920000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [796780572947127635345.014838, 880652212204720022913.765085]
+Media: 838716392575923829129.389961
+Tiempo: 0.776096
+Error relativo: 0.005052
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 43) = 6832943830217336832000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [6506310870011183045893.883259, 7191185698433412880217.650102]
+Media: 6848748284222297963055.766681
+Tiempo: 0.387774
+Error relativo: 0.002313
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 48) = 42047887744582207488000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [40018483912710504548993.940999, 44230955903522136852929.271356]
+Media: 42124719908116320700961.606178
+Tiempo: 0.398986
+Error relativo: 0.001827
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 53) = 209574860127295703040000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [198627430338965416021258.298297, 219535580900961776824164.969500]
+Media: 209081505619963596422711.633898
+Tiempo: 0.39357
+Error relativo: 0.002354
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][0][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][0][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][0][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][0][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][0][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 35) = 4247252019052922880000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [4046603477237358167355.607116, 4472561737999185367756.653582]
+Media: 4259582607618271767556.130349
+Tiempo: 0.622396
+Error relativo: 0.002903
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 40) = 52601652673686724608000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [49845821281853281707650.330996, 55092749837837837983469.360123]
+Media: 52469285559845559845559.845560
+Tiempo: 0.415082
+Error relativo: 0.002516
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 45) = 450974292794344230912000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [426726805115392513851063.986221, 471645416180170675828527.365734]
+Media: 449186110647781594839795.675977
+Tiempo: 0.61946
+Error relativo: 0.003965
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 50) = 2943352142120754524160000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [2826993836706055936077737.368814, 3124572135306693420421619.130542]
+Media: 2975782986006374678249678.249678
+Tiempo: 0.629668
+Error relativo: 0.011018
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 55) = 15560933364451705950720000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [14692519650514761784148636.736065, 16239100666358421009693222.352376]
+Media: 15465810158436591396920929.544221
+Tiempo: 0.41894
+Error relativo: 0.006113
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 37) = 269397128065642536960000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [243590686035558826581589.361933, 269231810881407125614775.988513]
+Media: 256411248458482976098182.675223
+Tiempo: 0.88123
+Error relativo: 0.048203
+El resultado NO esta dentro del intervalo ):
+--------------------
+P(G, 42) = 3483847919388020760576000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [3332723520707555642054729.612676, 3683536522887298361717368.117054]
+Media: 3508130021797427001886048.864865
+Tiempo: 0.891174
+Error relativo: 0.006970
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 47) = 31451820032947491201024000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [30617923972368241138302678.059239, 33840863337880687762238827.884565]
+Media: 32229393655124464450270752.971902
+Tiempo: 0.890698
+Error relativo: 0.024723
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 52) = 216826941136228916613120000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [202776680867161149803171272.183321, 224121594642651798398116392.002007]
+Media: 213449137754906474100643832.092664
+Tiempo: 0.66697
+Error relativo: 0.015578
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 57) = 1211475592666581594992640000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1153518523248757847117872925.205416, 1274941525695995522330628656.071249]
+Media: 1214230024472376684724250790.638333
+Tiempo: 0.444654
+Error relativo: 0.002274
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 39) = 18147570172421919989760000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [17755964098850392962084133.509510, 19625012951360960751517256.521378]
+Media: 18690488525105676856800695.015444
+Tiempo: 0.701343
+Error relativo: 0.029917
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 44) = 244127417166005010333696000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [230917766400179639239120245.942983, 255224899705461707947782327.524199]
+Media: 243071333052820673593451286.733591
+Tiempo: 0.935118
+Error relativo: 0.004326
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 49) = 2311708772421640603275264000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [2210621826450763097574205448.558249, 2443318860814001331968627354.304293]
+Media: 2326970343632382214771416401.431271
+Tiempo: 0.94221
+Error relativo: 0.006602
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 54) = 16771856906267220522885120000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [15887269841767292218879548807.052599, 17559614035637533602797134425.318056]
+Media: 16723441938702412910838341616.185328
+Tiempo: 0.472058
+Error relativo: 0.002887
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 59) = 98706416145358148049162240000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [93992516182081200410403612756.791748, 103886465253879222084366627993.236084]
+Media: 98939490717980211247385120375.013916
+Tiempo: 0.705106
+Error relativo: 0.002361
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 41) = 1294000655772693425356800000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1213780702293983258964305767.286396, 1341547092009139398952610986.737445]
+Media: 1277663897151561328958458377.011921
+Tiempo: 1.23867
+Error relativo: 0.012625
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 46) = 18047991197629656121098240000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [17128601462017429466940161235.860594, 18931612142229790568815124040.521093]
+Media: 18030106802123610017877642638.190844
+Tiempo: 1.7421
+Error relativo: 0.000991
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 51) = 178632041505308592071270400000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [176423114558114159876193558267.007629, 194993968722126177790413400181.540222]
+Media: 185708541640120168833303479224.273926
+Tiempo: 0.496759
+Error relativo: 0.039615
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 56) = 1359403138718501031854899200000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1321450499296771258355387763297.759521, 1460550551854326135783959163432.618896]
+Media: 1391000525575548697069673463365.189209
+Tiempo: 1.00702
+Error relativo: 0.023244
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 61) = 8401522862604902833951948800000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [7770941077270341462152367290133.746094, 8588934874877745874387119010374.699219]
+Media: 8179937976074043668269743150254.222656
+Tiempo: 1.00786
+Error relativo: 0.026374
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 43) = 97373549346895180258099200000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [88396051777255682738307673025.952911, 97700899332756281464995638436.256805]
+Media: 93048475555005982101651655731.104858
+Tiempo: 1.05309
+Error relativo: 0.044417
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 48) = 1404009246270776007213711360000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1335424041043933949772145842927.196777, 1475994992732769110593693150520.339844]
+Media: 1405709516888351530182919496723.768311
+Tiempo: 0.784816
+Error relativo: 0.001211
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 53) = 14479703129077367051424153600000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [13571323029462325289362800667946.689453, 14999883348353096455928388006593.185547]
+Media: 14285603188907710872645594337269.937500
+Tiempo: 0.792459
+Error relativo: 0.013405
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 58) = 115235558374445241315699916800000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [110620872047562347554636801522436.109375, 122265174368358384819744493379740.203125]
+Media: 116443023207960366187190647451088.156250
+Tiempo: 1.32252
+Error relativo: 0.010478
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 63) = 745826097757607965214007091200000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [724090571053026505414614000245564.125000, 800310631163871405175166298870016.375000]
+Media: 762200601108448955294890149557790.250000
+Tiempo: 0.527873
+Error relativo: 0.021955
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0][1]
+[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][0]
+--------------------
+P(G, 45) = 7711985108274098276441456640000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [6213062946404796870943046227955.906250, 6867069572342143948205115008427.832031]
+Media: 6540066259373470409574080618191.869141
+Tiempo: 0.549277
+Error relativo: 0.151961
+El resultado NO esta dentro del intervalo ):
+--------------------
+P(G, 50) = 114660755112113373922453094400000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [111317619240268623488315730843050.250000, 123035263370823216119148876621557.218750]
+Media: 117176441305545919803732303732303.734375
+Tiempo: 0.839368
+Error relativo: 0.021940
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 55) = 1228706236953136575506563891200000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1147234638328779998804798131579041.625000, 1267996179205493689945947575457864.125000]
+Media: 1207615408767136844375372853518452.875000
+Tiempo: 0.826095
+Error relativo: 0.017165
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 60) = 10198346916138403856439442636800000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [9576020672981063138045485403613226.000000, 10584022849084333000950653592525770.000000]
+Media: 10080021761032698069498069498069498.000000
+Tiempo: 0.551639
+Error relativo: 0.011602
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 65) = 68947479259369980784228211097600000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [63294494649652801519264061347721400.000000, 69957073033826781015868063883261720.000000]
+Media: 66625783841739791267566062615491560.000000
+Tiempo: 0.853906
+Error relativo: 0.033673
+El resultado SI esta dentro del intervalo :)
+--------------------
+Evaluaciones: 100
+Montecarlos correctos: 98
