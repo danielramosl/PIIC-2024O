@@ -1,0 +1,1727 @@
+--------------------
+[0]
+--------------------
+P(G, 5) = 5
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [4.750000, 5.250000]
+Media: 5.000000
+Tiempo: 0.0295501
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 7
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [6.650000, 7.350000]
+Media: 7.000000
+Tiempo: 0.0315194
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 9
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [8.550000, 9.450000]
+Media: 9.000000
+Tiempo: 0.0292035
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 11
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [10.450000, 11.550000]
+Media: 11.000000
+Tiempo: 0.0275693
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 13
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [12.350000, 13.650000]
+Media: 13.000000
+Tiempo: 0.0291896
+Error relativo: -0.000000
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1]
+[1][0]
+--------------------
+P(G, 5) = 20
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [18.963750, 20.959935]
+Media: 19.961842
+Tiempo: 0.0563864
+Error relativo: 0.001908
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 42
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [39.950549, 44.155870]
+Media: 42.053209
+Tiempo: 0.0558388
+Error relativo: 0.001267
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 72
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [68.475566, 75.683520]
+Media: 72.079543
+Tiempo: 0.0564918
+Error relativo: 0.001105
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 110
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [104.502837, 115.503136]
+Media: 110.002986
+Tiempo: 0.0552666
+Error relativo: 0.000027
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 156
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [148.384773, 164.004223]
+Media: 156.194498
+Tiempo: 0.0557351
+Error relativo: 0.001247
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0]
+[1][0][1]
+[0][1][0]
+--------------------
+P(G, 5) = 80
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [75.941685, 83.935547]
+Media: 79.938616
+Tiempo: 0.0832619
+Error relativo: 0.000767
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 252
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [238.794816, 263.931113]
+Media: 251.362965
+Tiempo: 0.0833898
+Error relativo: 0.002528
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 576
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [545.190936, 602.579455]
+Media: 573.885195
+Tiempo: 0.0832779
+Error relativo: 0.003672
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 1100
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1044.948620, 1154.943212]
+Media: 1099.945916
+Tiempo: 0.0827436
+Error relativo: 0.000049
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 1872
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1779.856951, 1967.210315]
+Media: 1873.533633
+Tiempo: 0.0829584
+Error relativo: 0.000819
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0]
+[1][0][1][0]
+[0][1][0][1]
+[0][0][1][0]
+--------------------
+P(G, 5) = 320
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [303.949422, 335.944098]
+Media: 319.946760
+Tiempo: 0.110761
+Error relativo: 0.000166
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 1512
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1429.240298, 1579.686645]
+Media: 1504.463471
+Tiempo: 0.114454
+Error relativo: 0.004984
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 4608
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [4354.905310, 4813.316396]
+Media: 4584.110853
+Tiempo: 0.112679
+Error relativo: 0.005184
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 11000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [10456.046450, 11556.682918]
+Media: 11006.364684
+Tiempo: 0.110939
+Error relativo: 0.000579
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 22464
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [21381.766372, 23632.478621]
+Media: 22507.122496
+Tiempo: 0.110944
+Error relativo: 0.001920
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0]
+[1][0][1][0][0]
+[0][1][0][1][0]
+[0][0][1][0][1]
+[0][0][0][1][0]
+--------------------
+P(G, 5) = 1280
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1210.353071, 1337.758657]
+Media: 1274.055864
+Tiempo: 0.138975
+Error relativo: 0.004644
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 9072
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [8583.422910, 9486.941111]
+Media: 9035.182010
+Tiempo: 0.138664
+Error relativo: 0.004058
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 36864
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [34933.436135, 38610.639939]
+Media: 36772.038037
+Tiempo: 0.139196
+Error relativo: 0.002495
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 110000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [104018.824341, 114968.174272]
+Media: 109493.499306
+Tiempo: 0.139487
+Error relativo: 0.004605
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 269568
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [255874.882033, 282809.080141]
+Media: 269341.981087
+Tiempo: 0.144449
+Error relativo: 0.000838
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0]
+[1][0][1][0][0][0]
+[0][1][0][1][0][0]
+[0][0][1][0][1][0]
+[0][0][0][1][0][1]
+[0][0][0][0][1][0]
+--------------------
+P(G, 5) = 5120
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [4837.919846, 5347.174567]
+Media: 5092.547207
+Tiempo: 0.166411
+Error relativo: 0.005362
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 54432
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [52296.172889, 57801.033193]
+Media: 55048.603041
+Tiempo: 0.166378
+Error relativo: 0.011328
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 294912
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [279054.616307, 308428.786444]
+Media: 293741.701375
+Tiempo: 0.167347
+Error relativo: 0.003968
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 1100000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1043843.370472, 1153721.619996]
+Media: 1098782.495234
+Tiempo: 0.166713
+Error relativo: 0.001107
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 3234816
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [3050432.052416, 3371530.163197]
+Media: 3210981.107806
+Tiempo: 0.167415
+Error relativo: 0.007368
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0]
+[1][0][1][0][0][0][0]
+[0][1][0][1][0][0][0]
+[0][0][1][0][1][0][0]
+[0][0][0][1][0][1][0]
+[0][0][0][0][1][0][1]
+[0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 20480
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [19555.404840, 21613.868507]
+Media: 20584.636674
+Tiempo: 0.196668
+Error relativo: 0.005109
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 326592
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [310591.124272, 343284.926826]
+Media: 326938.025549
+Tiempo: 0.195986
+Error relativo: 0.001060
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 2359296
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [2265879.625139, 2504393.269890]
+Media: 2385136.447514
+Tiempo: 0.19364
+Error relativo: 0.010953
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 11000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [10378276.405141, 11470726.553051]
+Media: 10924501.479096
+Tiempo: 0.196212
+Error relativo: 0.006864
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 38817792
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [36787624.090186, 40660005.573364]
+Media: 38723814.831775
+Tiempo: 0.193526
+Error relativo: 0.002421
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0]
+[0][1][0][1][0][0][0][0]
+[0][0][1][0][1][0][0][0]
+[0][0][0][1][0][1][0][0]
+[0][0][0][0][1][0][1][0]
+[0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 81920
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [78467.880897, 86727.657834]
+Media: 82597.769365
+Tiempo: 0.221631
+Error relativo: 0.008274
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 1959552
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1867700.232285, 2064300.256736]
+Media: 1966000.244510
+Tiempo: 0.220864
+Error relativo: 0.003291
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 18874368
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [18087426.596340, 19991366.238060]
+Media: 19039396.417200
+Tiempo: 0.225139
+Error relativo: 0.008744
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 110000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [104209957.026929, 115179426.187658]
+Media: 109694691.607294
+Tiempo: 0.224366
+Error relativo: 0.002776
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 465813504
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [442988876.960287, 489619285.061370]
+Media: 466304081.010829
+Tiempo: 0.223455
+Error relativo: 0.001053
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0]
+[0][0][0][1][0][1][0][0][0]
+[0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 327680
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [314934.925683, 348085.970492]
+Media: 331510.448088
+Tiempo: 0.248642
+Error relativo: 0.011690
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 11757312
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [11102293.429255, 12270955.895492]
+Media: 11686624.662373
+Tiempo: 0.249835
+Error relativo: 0.006012
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 150994944
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [144446536.657217, 159651435.252713]
+Media: 152048985.954965
+Tiempo: 0.250673
+Error relativo: 0.006981
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 1100000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1042861258.136743, 1152636127.414295]
+Media: 1097748692.775519
+Tiempo: 0.253982
+Error relativo: 0.002047
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 5589762048
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [5292397533.366301, 5849492010.562753]
+Media: 5570944771.964527
+Tiempo: 0.257497
+Error relativo: 0.003366
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 1310720
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1248098.248220, 1379477.011191]
+Media: 1313787.629706
+Tiempo: 0.41499
+Error relativo: 0.002340
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 70543872
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [66788372.210547, 73818727.180078]
+Media: 70303549.695312
+Tiempo: 0.279687
+Error relativo: 0.003407
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 1207959552
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1146646383.222195, 1267346002.508742]
+Media: 1206996192.865468
+Tiempo: 0.279724
+Error relativo: 0.000798
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 11000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [10372935655.314256, 11464823619.031546]
+Media: 10918879637.172901
+Tiempo: 0.277914
+Error relativo: 0.007375
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 67077144576
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [63835442848.051142, 70554963147.845999]
+Media: 67195202997.948570
+Tiempo: 0.281027
+Error relativo: 0.001760
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 5242880
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [4961610.300661, 5483885.069151]
+Media: 5222747.684906
+Tiempo: 0.303406
+Error relativo: 0.003840
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 423263232
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [405190346.351151, 447841961.756535]
+Media: 426516154.053843
+Tiempo: 0.305003
+Error relativo: 0.007685
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 9663676416
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [9123812115.506404, 10084213390.822867]
+Media: 9604012753.164636
+Tiempo: 0.458587
+Error relativo: 0.006174
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 110000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [104105941586.964989, 115064461754.013936]
+Media: 109585201670.489463
+Tiempo: 0.464552
+Error relativo: 0.003771
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 804925734912
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [768593111555.859521, 849497649614.371054]
+Media: 809045380585.115287
+Tiempo: 0.311626
+Error relativo: 0.005118
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 20971520
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [19987761.744201, 22091736.664643]
+Media: 21039749.204422
+Tiempo: 0.333209
+Error relativo: 0.003253
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 2539579392
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [2451993713.886128, 2710098315.347825]
+Media: 2581046014.616976
+Tiempo: 0.333039
+Error relativo: 0.016328
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 77309411328
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [73915827366.280295, 81696440773.257169]
+Media: 77806134069.768732
+Tiempo: 0.33842
+Error relativo: 0.006425
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 1100000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1042879907204.207291, 1152656739541.492275]
+Media: 1097768323372.849783
+Tiempo: 0.33493
+Error relativo: 0.002029
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 9659108818944
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [9179875630803.814600, 10146178328783.163561]
+Media: 9663026979793.489081
+Tiempo: 0.33624
+Error relativo: 0.000406
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 83886080
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [78146061.842046, 86371963.088577]
+Media: 82259012.465311
+Tiempo: 0.361657
+Error relativo: 0.019396
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 15237476352
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [14313939686.764722, 15820670180.108377]
+Media: 15067304933.436550
+Tiempo: 0.726952
+Error relativo: 0.011168
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 618475290624
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [588979570869.777969, 650977420435.017759]
+Media: 619978495652.397864
+Tiempo: 0.364539
+Error relativo: 0.002431
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 11000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [10324115369732.164551, 11410864356019.760883]
+Media: 10867489862875.962717
+Tiempo: 0.365392
+Error relativo: 0.012046
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 115909305827328
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [110511682421187.245591, 122144491097101.693175]
+Media: 116328086759144.469383
+Tiempo: 0.373512
+Error relativo: 0.003613
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 335544320
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [324267678.279214, 358401118.098079]
+Media: 341334398.188646
+Tiempo: 0.390452
+Error relativo: 0.017256
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 91424858112
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [88636941748.954483, 97967146143.581271]
+Media: 93302043946.267877
+Tiempo: 0.585966
+Error relativo: 0.020533
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 4947802324992
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [4715405698663.964433, 5211764193260.171245]
+Media: 4963584945962.067839
+Tiempo: 0.782205
+Error relativo: 0.003190
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 110000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [104826967892193.307046, 115861385565055.761064]
+Media: 110344176728624.534055
+Tiempo: 0.399333
+Error relativo: 0.003129
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 1390911669927936
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1330780644003423.217207, 1470862817056415.142993]
+Media: 1400821730529919.180100
+Tiempo: 0.594769
+Error relativo: 0.007125
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 1342177280
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1346742784.654772, 1488505183.039485]
+Media: 1417623983.847128
+Tiempo: 0.412232
+Error relativo: 0.056212
+El resultado NO esta dentro del intervalo ):
+--------------------
+P(G, 7) = 548549148672
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [518469747486.520702, 573045510379.838673]
+Media: 545757628933.179688
+Tiempo: 0.423065
+Error relativo: 0.005089
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 39582418599936
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [36367558256510.787002, 40195722283511.922699]
+Media: 38281640270011.354850
+Tiempo: 0.419999
+Error relativo: 0.032863
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 1100000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1034112107529039.528215, 1142966013584727.905967]
+Media: 1088539060556883.717091
+Tiempo: 0.42131
+Error relativo: 0.010419
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 16690940039135232
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [15898398276446163.966788, 17571913884493128.692659]
+Media: 16735156080469646.329724
+Tiempo: 0.423025
+Error relativo: 0.002649
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 5368709120
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [4923481738.705433, 5441742974.358636]
+Media: 5182612356.532034
+Tiempo: 0.439968
+Error relativo: 0.034663
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 3291294892032
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [2998852963486.060306, 3314521696484.592988]
+Media: 3156687329985.326647
+Tiempo: 0.44325
+Error relativo: 0.040898
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 316659348799488
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [299271256489820.434761, 330773494015064.692893]
+Media: 315022375252442.563827
+Tiempo: 0.44749
+Error relativo: 0.005170
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 11000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [10594412106605529.862740, 11709613380985059.387140]
+Media: 11152012743795294.624940
+Tiempo: 0.673191
+Error relativo: 0.013819
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 200291280469622784
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [189117453951038813.995190, 209024554366937637.684226]
+Media: 199071004158988225.839708
+Tiempo: 0.453322
+Error relativo: 0.006093
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 21474836480
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [21053787364.002360, 23269975507.581556]
+Media: 22161881435.791958
+Tiempo: 1.40626
+Error relativo: 0.031993
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 19747769352192
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [18918771982411.582736, 20910221664770.696825]
+Media: 19914496823591.139780
+Tiempo: 0.474659
+Error relativo: 0.008443
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 2533274790395904
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [2372292877029669.578319, 2622007916717003.232733]
+Media: 2497150396873336.405526
+Tiempo: 0.477845
+Error relativo: 0.014260
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 110000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [107152879494325728.209051, 118432129967412647.626977]
+Media: 112792504730869187.918014
+Tiempo: 0.478135
+Error relativo: 0.025386
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 2403495365635473408
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [2321033160559953072.078490, 2565352440618895514.994588]
+Media: 2443192800589424293.536539
+Tiempo: 0.722655
+Error relativo: 0.016517
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 85899345920
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [83005412971.958077, 91742824863.743138]
+Media: 87374118917.850607
+Tiempo: 1.5787
+Error relativo: 0.017169
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 118486616113152
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [115165857916893.059672, 127288579802881.803504]
+Media: 121227218859887.431588
+Tiempo: 0.751689
+Error relativo: 0.023130
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 20266198323167232
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [19466756255625818.010322, 21515888493060114.762724]
+Media: 20491322374342966.386523
+Tiempo: 0.76879
+Error relativo: 0.011108
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 1100000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1028120146680957443.290495, 1136343320015795075.223803]
+Media: 1082231733348376259.257149
+Tiempo: 0.504635
+Error relativo: 0.016153
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 28841944387625680896
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [27904784364020790024.347278, 30842130086549294409.073773]
+Media: 29373457225285042216.710525
+Tiempo: 0.769343
+Error relativo: 0.018428
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 343597383680
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [331875900504.211660, 366810205820.444469]
+Media: 349343053162.328065
+Tiempo: 1.31762
+Error relativo: 0.016722
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 710919696678912
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [666574510422816.744892, 736740248362060.616876]
+Media: 701657379392438.680884
+Tiempo: 0.81057
+Error relativo: 0.013029
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 162129586585337856
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [153987805449384784.888541, 170197048128267394.771328]
+Media: 162092426788826089.829935
+Tiempo: 0.796845
+Error relativo: 0.000229
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 11000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [10438295293654053595.942983, 11537063219301848775.509478]
+Media: 10987679256477951185.726231
+Tiempo: 0.535676
+Error relativo: 0.001120
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 346103332651508170752
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [326259756888627399941.298304, 360602889192693444047.147400]
+Media: 343431323040660421994.222852
+Tiempo: 0.539629
+Error relativo: 0.007720
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 1374389534720
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1347289352343.349379, 1489109284168.965112]
+Media: 1418199318256.157245
+Tiempo: 1.10348
+Error relativo: 0.031876
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 4265518180073472
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [4012839526565323.608789, 4435243687256410.329133]
+Media: 4224041606910866.968961
+Tiempo: 0.555011
+Error relativo: 0.009724
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 1297036692682702848
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1217270118190385607.241093, 1345403814842005152.332628]
+Media: 1281336966516195379.786861
+Tiempo: 0.56089
+Error relativo: 0.012104
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 110000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [103845498735165914887.778411, 114776603865183380251.542696]
+Media: 109311051300174647569.660553
+Tiempo: 0.870075
+Error relativo: 0.006263
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 4153239991818098049024
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [3881393520221907708264.153721, 4289961259192634859323.607319]
+Media: 4085677389707271283793.880520
+Tiempo: 0.570322
+Error relativo: 0.016267
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 5497558138880
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [5126804918856.234149, 5666468594525.311459]
+Media: 5396636756690.772804
+Tiempo: 1.44171
+Error relativo: 0.018357
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 25593109080440832
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [24766041325016832.923835, 27372993043439657.594465]
+Media: 26069517184228245.259150
+Tiempo: 0.876252
+Error relativo: 0.018615
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 10376293541461622784
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [9434714387725767781.824854, 10427842218012690764.258701]
+Media: 9931278302869229273.041777
+Tiempo: 0.591367
+Error relativo: 0.042888
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 1100000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1052457421865515988515.189377, 1163242413640833467463.948714]
+Media: 1107849917753174727989.569046
+Tiempo: 0.596272
+Error relativo: 0.007136
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 49838879901817176588288
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [46967747996489092826731.744801, 51911721469803734465804.201265]
+Media: 49439734733146413646267.973033
+Tiempo: 0.907816
+Error relativo: 0.008009
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 21990232555520
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [18993227178065.472993, 20992514249440.786056]
+Media: 19992870713753.129525
+Tiempo: 1.21739
+Error relativo: 0.090830
+El resultado NO esta dentro del intervalo ):
+--------------------
+P(G, 7) = 153558654482644992
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [140497400313010184.880712, 155286600345958626.258646]
+Media: 147892000329484405.569679
+Tiempo: 0.614258
+Error relativo: 0.036902
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 83010348331692982272
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [77857558312269371814.720155, 86053090766192464063.578530]
+Media: 81955324539230917939.149342
+Tiempo: 1.23372
+Error relativo: 0.012710
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 11000000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [10431691617249337599645.213749, 11529764419065057411139.747159]
+Media: 10980728018157197505392.480454
+Tiempo: 0.623976
+Error relativo: 0.001752
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 598066558821806119059456
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [566678552515372848800789.204951, 626328926464359467949567.994192]
+Media: 596503739489866158375178.599572
+Tiempo: 0.630831
+Error relativo: 0.002613
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 87960930222080
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [81165301753747.416962, 89709017727826.092931]
+Media: 85437159740786.754947
+Tiempo: 1.58403
+Error relativo: 0.028692
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 921351926895869952
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [861919059496002673.275375, 952647381548213486.290081]
+Media: 907283220522108079.782728
+Tiempo: 0.649668
+Error relativo: 0.015270
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 664082786653543858176
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [631636726242669572065.560428, 698124802689266373010.176964]
+Media: 664880764465967972537.868696
+Tiempo: 1.28756
+Error relativo: 0.001202
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 110000000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [103266049206131384362140.829617, 114136159648882057035431.806091]
+Media: 108701104427506720698786.317854
+Tiempo: 1.3056
+Error relativo: 0.011808
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 7176798705861673428713472
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [6706355811114608190331249.864997, 7412288001758251198984127.317978]
+Media: 7059321906436429694657688.591488
+Tiempo: 0.653095
+Error relativo: 0.016369
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 351843720888320
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [325890984314288.871137, 360195298452635.070103]
+Media: 343043141383461.970620
+Tiempo: 1.64839
+Error relativo: 0.025013
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 5528111561375219712
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [5001326517202919970.406793, 5527781940066385261.211873]
+Media: 5264554228634652615.809333
+Tiempo: 0.668394
+Error relativo: 0.047676
+El resultado NO esta dentro del intervalo ):
+--------------------
+P(G, 9) = 5312662293228350865408
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [4964710383832611497682.981600, 5487311476867623264818.230514]
+Media: 5226010930350117381250.606057
+Tiempo: 0.673662
+Error relativo: 0.016310
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 1100000000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1027118072722632174091722.019818, 1135235764588172409261100.699717]
+Media: 1081176918655402291676411.359767
+Tiempo: 1.36458
+Error relativo: 0.017112
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 86121584470340081144561664
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [80696424857237044565334668.313089, 89190785368525155015929613.351245]
+Media: 84943605112881099790632140.832167
+Tiempo: 0.686535
+Error relativo: 0.013678
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 1407374883553280
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1374959341577581.453172, 1519691903848905.825121]
+Media: 1447325622713243.639147
+Tiempo: 2.06939
+Error relativo: 0.028387
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 33168669368251318272
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [32572854546507535420.875503, 36001576077718855139.212166]
+Media: 34287215312113195280.043834
+Tiempo: 1.74179
+Error relativo: 0.033723
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 42501298345826806923264
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [39786256418503883852978.811106, 43974283409925345555905.211940]
+Media: 41880269914214614704442.011523
+Tiempo: 0.704311
+Error relativo: 0.014612
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 11000000000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [10479671489262902568780850.865567, 11582794803922155535216356.374338]
+Media: 11031233146592529051998603.619953
+Tiempo: 1.07261
+Error relativo: 0.002839
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 1033459013644080973734739968
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [984751476043114358410049701.407417, 1088409526152915875878663034.168717]
+Media: 1036580501098015117144356367.788067
+Tiempo: 0.716608
+Error relativo: 0.003020
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 5629499534213120
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [5380275684434014.381979, 5946620493321805.402649]
+Media: 5663448088877909.892314
+Tiempo: 1.79739
+Error relativo: 0.006030
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 199012016209507909632
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [197773641621220363721.087410, 218591919686611982171.356171]
+Media: 208182780653916172946.221791
+Tiempo: 1.81191
+Error relativo: 0.046081
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 340010386766614455386112
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [323391908427549666064543.387065, 357433161946239106586778.661680]
+Media: 340412535186894386325661.024373
+Tiempo: 1.10254
+Error relativo: 0.001183
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 110000000000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [106442248930544097294006568.390633, 117646696186390845032293329.360131]
+Media: 112044472558467471163149948.875382
+Tiempo: 1.11066
+Error relativo: 0.018586
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 12401508163728971684816879616
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [11947441675976881286788046531.346453, 13205067115553395179936510343.708143]
+Media: 12576254395765138233362278437.527298
+Tiempo: 0.743232
+Error relativo: 0.014091
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 22517998136852480
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [22375114751138282.032993, 24730389988100206.595144]
+Media: 23552752369619244.314069
+Tiempo: 1.85921
+Error relativo: 0.045952
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 1194072097257047457792
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1191591570899561647359.805211, 1317022262573199722832.207964]
+Media: 1254306916736380685096.006588
+Tiempo: 1.88314
+Error relativo: 0.050445
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 2720083094132915643088896
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [2486167870056376096897722.481781, 2747869751114942017126296.108228]
+Media: 2617018810585659057012009.295005
+Tiempo: 1.1428
+Error relativo: 0.037890
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 1100000000000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1028232124669055979860103450.653512, 1136467085160535563011953561.618870]
+Media: 1082349604914795771436028506.136191
+Tiempo: 0.767064
+Error relativo: 0.016046
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 148818097964747660217802555392
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [140702045805769247488615867973.413132, 155512787469534432300218928122.572708]
+Media: 148107416637651839894417398047.992920
+Tiempo: 1.16089
+Error relativo: 0.004776
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 90071992547409920
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [93941321474244695.558368, 103829881629428348.300223]
+Media: 98885601551836521.929295
+Tiempo: 0.773337
+Error relativo: 0.097851
+El resultado NO esta dentro del intervalo ):
+--------------------
+P(G, 7) = 7164432583542284746752
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [6900422426614165070717.456063, 7626782682047235120604.655635]
+Media: 7263602554330700095661.055849
+Tiempo: 1.57015
+Error relativo: 0.013842
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 21760664753063325144711168
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [20565873895600397981174055.542992, 22730702726716229474110419.951579]
+Media: 21648288311158313727642237.747285
+Tiempo: 1.18574
+Error relativo: 0.005164
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 11000000000000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [10490948054594426229297287380.580759, 11595258376130681686382830541.734556]
+Media: 11043103215362553957840058961.157658
+Tiempo: 1.21998
+Error relativo: 0.003918
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 1785817175576971922613630664704
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1664605898618400052076902739196.792480, 1839827572157179015165794415749.345703]
+Media: 1752216735387789533621348577473.069092
+Tiempo: 0.80295
+Error relativo: 0.018815
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 360287970189639680
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [355838338917593543.781697, 393295006172077076.894783]
+Media: 374566672544835310.338240
+Tiempo: 2.40105
+Error relativo: 0.039631
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 7) = 42986595501253708480512
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [41336627946250280156198.552459, 45687851940592415163736.771866]
+Media: 43512239943421347659967.662162
+Tiempo: 1.21348
+Error relativo: 0.012228
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 174085318024506601157689344
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [164486999188341150989924920.657902, 181801420155534957369015376.297214]
+Media: 173144209671938054179470148.477558
+Tiempo: 1.23642
+Error relativo: 0.005406
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 110000000000000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [104490724216033980573736217376.750793, 115489747817721768645254200836.898163]
+Media: 109990236016877874609495209106.824478
+Tiempo: 1.2397
+Error relativo: 0.000089
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 21429806106923663071363567976448
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [20213388947728103114357906227236.203125, 22341114100120535145461341317479.375000]
+Media: 21277251523924319129909623772357.789062
+Tiempo: 0.833013
+Error relativo: 0.007119
+El resultado SI esta dentro del intervalo :)
+--------------------
+--------------------
+[0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1][0]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0][1]
+[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][1][0]
+--------------------
+P(G, 5) = 1441151880758558720
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1239503547229617510.839577, 1369977604832735151.183495]
+Media: 1304740576031176331.011536
+Tiempo: 3.72097
+Error relativo: 0.094654
+El resultado NO esta dentro del intervalo ):
+--------------------
+P(G, 7) = 257919573007522250883072
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [240269149937579753407904.086165, 265560639404693413139219.986470]
+Media: 252914894671136583273562.036318
+Tiempo: 0.837485
+Error relativo: 0.019404
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 9) = 1392682544196052809261514752
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1309507275266919458619462456.419279, 1447350146347647830739212675.740349]
+Media: 1378428710807283644679337566.079814
+Tiempo: 1.26729
+Error relativo: 0.010235
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 11) = 1100000000000000000000000000000
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [1081560818418835484247783854427.943115, 1195409325620818173452668155675.312500]
+Media: 1138485072019826828850226005051.627808
+Tiempo: 0.857166
+Error relativo: 0.034986
+El resultado SI esta dentro del intervalo :)
+--------------------
+P(G, 13) = 257157673283083956856362815717376
+Usando el metodo de Montecarlo:
+Intervalo de confianza: [239049312949817612602714987016503.156250, 264212398523482625925981668518030.406250]
+Media: 251630855736650119264348327767266.781250
+Tiempo: 1.29728
+Error relativo: 0.021492
+El resultado SI esta dentro del intervalo :)
+--------------------
+Evaluaciones: 150
+Montecarlos correctos: 145
