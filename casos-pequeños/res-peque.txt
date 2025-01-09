@@ -1,0 +1,84 @@
+--------------------
+Numero de vertices: 1
+Total de graficas: 1
+Total de evaluaciones calculadas: 5
+Intervalos de evaluaciones correctamente resueltos: 5
+Tiempo medio Montecarlo: 0.045
+Tiempo medio Borrado-Contraccion: 0
+--------------------
+Numero de vertices: 2
+Total de graficas: 2
+Total de evaluaciones calculadas: 10
+Intervalos de evaluaciones correctamente resueltos: 10
+Tiempo medio Montecarlo: 0.0879
+Tiempo medio Borrado-Contraccion: 0
+--------------------
+Numero de vertices: 3
+Total de graficas: 4
+Total de evaluaciones calculadas: 20
+Intervalos de evaluaciones correctamente resueltos: 20
+Tiempo medio Montecarlo: 0.13635
+Tiempo medio Borrado-Contraccion: 0
+--------------------
+Numero de vertices: 4
+Total de graficas: 11
+Total de evaluaciones calculadas: 55
+Intervalos de evaluaciones correctamente resueltos: 55
+Tiempo medio Montecarlo: 0.181291
+Tiempo medio Borrado-Contraccion: 0.000145455
+--------------------
+Numero de vertices: 5
+Total de graficas: 34
+Total de evaluaciones calculadas: 170
+Intervalos de evaluaciones correctamente resueltos: 170
+Tiempo medio Montecarlo: 0.243147
+Tiempo medio Borrado-Contraccion: 0.000276471
+--------------------
+Numero de vertices: 6
+Total de graficas: 156
+Total de evaluaciones calculadas: 780
+Intervalos de evaluaciones correctamente resueltos: 779
+Tiempo medio Montecarlo: 0.301215
+Tiempo medio Borrado-Contraccion: 0.00141538
+--------------------
+Numero de vertices: 7
+Total de graficas: 1044
+Total de evaluaciones calculadas: 5220
+Intervalos de evaluaciones correctamente resueltos: 5220
+Tiempo medio Montecarlo: 0.359496
+Tiempo medio Borrado-Contraccion: 0.00708812
+--------------------
+Numero de vertices: 8
+Total de graficas: 12346
+Total de evaluaciones calculadas: 61730
+Intervalos de evaluaciones correctamente resueltos: 61709
+Tiempo medio Montecarlo: 0.41754
+Tiempo medio Borrado-Contraccion: 0.0344874
+--------------------
+Numero de vertices: 9
+Total de graficas: 100
+Total de evaluaciones calculadas: 500
+Intervalos de evaluaciones correctamente resueltos: 499
+Tiempo medio Montecarlo: 0.48022
+Tiempo medio Borrado-Contraccion: 0.214816
+--------------------
+Numero de vertices: 10
+Total de graficas: 100
+Total de evaluaciones calculadas: 500
+Intervalos de evaluaciones correctamente resueltos: 500
+Tiempo medio Montecarlo: 0.50537
+Tiempo medio Borrado-Contraccion: 1.25584
+--------------------
+Numero de vertices: 11
+Total de graficas: 50
+Total de evaluaciones calculadas: 250
+Intervalos de evaluaciones correctamente resueltos: 250
+Tiempo medio Montecarlo: 0.557768
+Tiempo medio Borrado-Contraccion: 10.1027
+--------------------
+Numero de vertices: 12
+Total de graficas: 10
+Total de evaluaciones calculadas: 50
+Intervalos de evaluaciones correctamente resueltos: 48
+Tiempo medio Montecarlo: 0.64614
+Tiempo medio Borrado-Contraccion: 95.8622
