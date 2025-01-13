@@ -1,5 +1,6 @@
 #pragma once
 #include <atomic>
+#include <iostream>
 #include <quadmath.h>
 #include <thread>
 #include <stdfloat>
@@ -38,10 +39,10 @@ class monteCarlo {
 
     std::float128_t montecarlo() {
         std::float128_t p = 0.5;
-        std::float128_t ep;
+        std::float128_t ep = 1;
         std::float128_t factor = 1;
         do {
-            int n = factor * (potencia(z, 2) * p * (1 - p)) / (potencia(e, 2));
+            __int128_t n = factor * (potencia(z, 2) * p * (1 - p)) / (potencia(e, 2));
             std::atomic<int> validas(0);
             int nhilos = std::thread::hardware_concurrency() - 1;
             int tam = n / nhilos;
@@ -56,10 +57,10 @@ class monteCarlo {
             }
             std::float128_t pact = std::float128_t(validas) / std::float128_t(n);
             if (pact == 0) {
-                factor *= 2;
-                if(n > potencia(c, g.size())) {
+                if(potencia(c, g.size()) < n) {
                     return 0;
                 }
+                factor *= 2;
                 continue;
             }
             p = pact;
@@ -68,6 +69,7 @@ class monteCarlo {
                 factor *= (1 + (ep - e) / e);
             }
         } while (ep > e);
+        std::cout << "holi :)" << "\n";
         return p * potencia(c, g.size());
     }
 
