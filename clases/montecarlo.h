@@ -1,6 +1,5 @@
 #pragma once
 #include <atomic>
-#include <iostream>
 #include <quadmath.h>
 #include <thread>
 #include <stdfloat>
@@ -69,7 +68,6 @@ class monteCarlo {
                 factor *= (1 + (ep - e) / e);
             }
         } while (ep > e);
-        std::cout << "holi :)" << "\n";
         return p * potencia(c, g.size());
     }
 
