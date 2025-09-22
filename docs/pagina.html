@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Flor amarilla animada – Canvas</title>
+<style>
+  html, body { height: 100%; margin: 0; background:#000; }
+  canvas { display:block; width:100%; height:100%; }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<script>
+(() => {
+  const canvas = document.getElementById('c');
+  const ctx = canvas.getContext('2d');
+
+  // Parámetros de la flor (tus valores)
+  const phiDeg = 137.508;
+  const phi = phiDeg * Math.PI / 180;
+  const a = 4;                      // r = a * sqrt(i)
+  const total = 220;                // elementos totales
+  const seedLimit = 160;            // hasta aquí son "semillas"
+  const seedRadius = 3;
+  const petalRx = 18, petalRy = 7;  // pétalos
+
+  // Animación
+  const stemSteps = 60;             // pasos para completar el tallo
+  const leafSteps = 60;             // pasos para completar la hoja (después del tallo)
+  let step = 0;                     // contador de pasos (tallo+hoja)
+  let i = 0;                        // cuántos puntos/pétalos llevamos
+  let last = 0;
+
+  function resize() {
+    const dpr = window.devicePixelRatio || 1;
+    const w = canvas.clientWidth || window.innerWidth;
+    const h = canvas.clientHeight || window.innerHeight;
+    canvas.width = Math.floor(w * dpr);
+    canvas.height = Math.floor(h * dpr);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0); // dibujar en unidades CSS
+    redrawAll();
+  }
+  window.addEventListener('resize', resize);
+
+  function background() {
+    const W = canvas.width  / (window.devicePixelRatio || 1);
+    const H = canvas.height / (window.devicePixelRatio || 1);
+    ctx.fillStyle = '#000';
+    ctx.fillRect(0, 0, W, H);
+  }
+
+  // Tallo que crece desde el centro hacia abajo
+  function drawStemFromCenter(progress) {
+    const W = canvas.width  / (window.devicePixelRatio || 1);
+    const H = canvas.height / (window.devicePixelRatio || 1);
+    const cx = W/2, cy = H/2;
+
+    const p = Math.max(0, Math.min(1, progress));
+    ctx.beginPath();
+    ctx.strokeStyle = 'green';
+    ctx.lineWidth = 20;
+    ctx.moveTo(cx, cy);
+    ctx.lineTo(cx, cy + (H - cy) * p);
+    ctx.stroke();
+  }
+
+  // Hoja que aparece SOLO después del tallo, creciendo desde pequeña a completa
+  function drawLeaf(progress) {
+    const W = canvas.width  / (window.devicePixelRatio || 1);
+    const H = canvas.height / (window.devicePixelRatio || 1);
+    const cx = W/2;
+
+    const p = Math.max(0, Math.min(1, progress));
+    // Altura fija de la hoja sobre el tallo (ajusta 0.78 y 0.70 si quieres moverla)
+    const y1 = H * 0.78, y2 = H * 0.70;
+
+    ctx.beginPath();
+    ctx.fillStyle = 'green';
+    ctx.strokeStyle = 'darkgreen';
+    ctx.lineWidth = 2;
+    ctx.moveTo(cx, y1);
+    // Control points escalados por p (0 → nada visible, 1 → hoja completa)
+    ctx.bezierCurveTo(cx - 85*p, y1 - 0.03*H*p,
+                      cx - 85*p, y2,
+                      cx,        y2);
+    ctx.bezierCurveTo(cx + 35*p, y2 + 0.03*H*p,
+                      cx + 35*p, y1,
+                      cx,        y1);
+    ctx.closePath();
+    if (p > 0) { ctx.fill(); ctx.stroke(); }
+  }
+
+  function drawItem(k) {
+    const W = canvas.width  / (window.devicePixelRatio || 1);
+    const H = canvas.height / (window.devicePixelRatio || 1);
+    const cx = W/2, cy = H/2;
+
+    const r = a * Math.sqrt(k);
+    const theta = k * phi;
+    const x = cx + r * Math.cos(theta);
+    const y = cy + r * Math.sin(theta);
+    const rot = theta;
+
+    if (k < seedLimit) {
+      ctx.beginPath();
+      ctx.fillStyle = 'orangered';
+      ctx.strokeStyle = 'black';
+      ctx.lineWidth = 1;
+      ctx.arc(x, y, seedRadius, 0, Math.PI*2);
+      ctx.fill(); ctx.stroke();
+    } else {
+      ctx.save();
+      ctx.translate(x, y);
+      ctx.rotate(rot);
+      ctx.beginPath();
+      ctx.fillStyle = 'yellow';
+      ctx.strokeStyle = 'black';
+      ctx.lineWidth = 1;
+      ctx.ellipse(0, 0, petalRx, petalRy, 0, 0, Math.PI*2);
+      ctx.fill(); ctx.stroke();
+      ctx.restore();
+    }
+  }
+
+  function redrawAll() {
+    background();
+
+    // Progresos actuales
+    const stemProg = Math.min(step / stemSteps, 1);
+    const leafProg = step <= stemSteps
+      ? 0
+      : Math.min((step - stemSteps) / leafSteps, 1);
+
+    // Dibujo del tallo y (solo después) la hoja
+    drawStemFromCenter(stemProg);
+    if (leafProg > 0) drawLeaf(leafProg);
+
+    // Redibuja todo lo acumulado de la flor
+    for (let k = 0; k < i; k++) drawItem(k);
+  }
+
+  function tick(ts) {
+    // <<<<< Ajusta aquí la velocidad (steps/ítems por segundo):
+    const rate = 30;
+
+    if (ts - last >= 1000 / rate) {
+      last = ts;
+
+      // 1) Primero completamos tallo
+      if (step < stemSteps) {
+        step++;
+      }
+      // 2) Luego hoja (NO aparecera antes del tallo)
+      else if (step < stemSteps + leafSteps) {
+        step++;
+      }
+      // 3) Finalmente semillas/pétalos
+      else if (i < total) {
+        i++;
+      }
+
+      redrawAll();
+    }
+    requestAnimationFrame(tick);
+  }
+
+  // Inicio
+  resize();
+  requestAnimationFrame(tick);
+})();
+</script>
+</body>
+</html>
